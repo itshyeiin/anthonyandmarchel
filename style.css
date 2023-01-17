@@ -82,9 +82,9 @@ body.dark-theme{
     background-color: #B4846C;
 }
 
-.dark-theme .nav__menu{
+/* .dark-theme .nav__menu{
     box-shadow: 0 8px 24px rgba(5, 56, 7, 0.2);
-}
+} */
 
 .dark-theme .nav__logo,
 .dark-theme .nav__link,
